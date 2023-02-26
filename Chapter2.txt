@@ -1,1 +1,1 @@
-Hello In this Chapter, We will learn about Git & Github.
+Hello In this Chapter, We will learn about GitHub & lot about Git.
